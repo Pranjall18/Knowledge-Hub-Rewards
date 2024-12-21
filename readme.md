@@ -8,6 +8,8 @@ KnowledgeHubRewards is a decentralized reward distribution system built on the E
 
 ## Contract Address
 0xA591C2D1c9Ac72CbeA81a6380A3Bb3f9402df557
+![image](https://github.com/user-attachments/assets/99cb8722-71c9-4d31-b64d-9e353b2b3dfa)
+
 
 ## Project Vision
 The vision of KnowledgeHubRewards is to foster a knowledge-sharing community where contributors are fairly compensated for their efforts. By leveraging blockchain technology, the project ensures trust, transparency, and immutable records of contributions, encouraging more people to participate and share knowledge.
